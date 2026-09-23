@@ -1,3 +1,5 @@
+# Week5_Lab.py - Part 1: Four Data Types
+
 # week5_lab.py
 # Author: Will Bundy
 # Business domain: Tech Equipment Purchase Request
