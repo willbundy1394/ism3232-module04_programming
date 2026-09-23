@@ -2,7 +2,7 @@
 
 # week5_lab.py
 # Author: Will Bundy
-# Business domain: This scenario automates transaction auditing by automatically applying a standard tax rate to sales total and flags transactions that go over approval thresholds
+# Business domain: (Finance) This scenario automates transaction auditing by automatically applying a tax rate to sales total and flags transactions that go over the approval thresholds
 
 product_name = "Laptop"
 status = "Pending"
